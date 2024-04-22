@@ -80,3 +80,6 @@ Photo
 ## Wireframes
 ![IMG_2658](https://github.com/YoungMo18/PolaroidApp/assets/97260958/8ae98e8f-da59-4ac5-9c3e-016eeeaabdb3)
 
+## Video Walkthrough
+
+
