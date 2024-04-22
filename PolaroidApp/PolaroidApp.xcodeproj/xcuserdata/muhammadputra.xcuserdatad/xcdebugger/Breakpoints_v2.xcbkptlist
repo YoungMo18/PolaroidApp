@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "72B66C5E-13A8-4912-993D-41AEE37CE3CA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA57E1C9-1D78-4B23-989F-7C0DA3AC8D9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PolaroidApp/ImageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "imageView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DA57E1C9-1D78-4B23-989F-7C0DA3AC8D9E - af255bd1cc9a6cb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PolaroidApp.ImageViewController.imageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "PolaroidApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadputra/Desktop/IOS101/PolaroidApp/PolaroidApp/PolaroidApp/ImageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "DA57E1C9-1D78-4B23-989F-7C0DA3AC8D9E - 6656460c158c50bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PolaroidApp.ImageViewController.imageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "PolaroidApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadputra/Desktop/IOS101/PolaroidApp/PolaroidApp/PolaroidApp/ImageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "DA57E1C9-1D78-4B23-989F-7C0DA3AC8D9E - 6351ea3027db8a59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PolaroidApp.ImageViewController.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "PolaroidApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadputra/Desktop/IOS101/PolaroidApp/PolaroidApp/PolaroidApp/ImageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "DA57E1C9-1D78-4B23-989F-7C0DA3AC8D9E - 3f7646b64d7743e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PolaroidApp.ImageViewController.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PolaroidApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadputra/Desktop/IOS101/PolaroidApp/PolaroidApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "DA57E1C9-1D78-4B23-989F-7C0DA3AC8D9E - a8b6213541e3126a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PolaroidApp.ImageViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PolaroidApp.ImageViewController"
+                  moduleName = "PolaroidApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadputra/Desktop/IOS101/PolaroidApp/PolaroidApp/PolaroidApp/ImageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "DA57E1C9-1D78-4B23-989F-7C0DA3AC8D9E - 89120ccd08985a75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PolaroidApp.ImageViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PolaroidApp.ImageViewController&gt;"
+                  moduleName = "PolaroidApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadputra/Desktop/IOS101/PolaroidApp/PolaroidApp/PolaroidApp/ImageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
