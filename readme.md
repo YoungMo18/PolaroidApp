@@ -81,5 +81,12 @@ Photo
 ![IMG_2658](https://github.com/YoungMo18/PolaroidApp/assets/97260958/8ae98e8f-da59-4ac5-9c3e-016eeeaabdb3)
 
 ## Video Walkthrough
-
+<div>
+    <a href="https://www.loom.com/share/724c00a1a06e4cfa8f57d7f2e7aa2981">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 22 April 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/724c00a1a06e4cfa8f57d7f2e7aa2981">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/724c00a1a06e4cfa8f57d7f2e7aa2981-with-play.gif">
+    </a>
+  </div>
 
