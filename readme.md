@@ -82,15 +82,10 @@ Photo
 
 ## Video Walkthrough
 <div>
-    <a href="https://www.loom.com/share/16dc2d8bb102468795270ef535b0cf36">
-      <p>Loom | Free Screen & Video Recording Software | Loom - 22 April 2024 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/16dc2d8bb102468795270ef535b0cf36">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/16dc2d8bb102468795270ef535b0cf36-with-play.gif">
     </a>
 </div>
 
-
-## UPDATE:
-Finished project
 
