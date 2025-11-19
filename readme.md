@@ -2,10 +2,10 @@
 # Polaroid App
 ## Table of Contents
 
-1. [Overview](https://courses.codepath.org/snippets/ios101/readme_templates/capstone_readme#Overview)
-2. [Product Spec](https://courses.codepath.org/snippets/ios101/readme_templates/capstone_readme#Product-Spec)
-3. [Wireframes](https://courses.codepath.org/snippets/ios101/readme_templates/capstone_readme#Wireframes)
-4. [Schema](https://courses.codepath.org/snippets/ios101/readme_templates/capstone_readme#Schema)
+1. Overview
+2. Product Spec
+3. Wireframes
+4. Schema
 
 ## Overview
 
